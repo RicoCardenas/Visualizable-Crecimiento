@@ -126,7 +126,7 @@ Todo con el objetivo de facilitar la enseñanza mediante animación digital y co
 ## 👤 Autor
 
 **Julián Alejandro Cárdenas Santiago**  
-Proyecto académico – Ingeniería de Sistemas  
+Proyecto Productivo – Animación Digital (ANDI 2) F2721271
 Colombia, 2025
 
 ---
